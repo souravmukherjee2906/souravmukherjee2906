@@ -1,5 +1,5 @@
 - Hi, I’m Sourav Mukherjee (@souravmukherjee2906).
-- I currently work as a Senior Manager, Biostatistics in the Global Biometrics and Data Sciences group in Oncology at Bristol Myers Squibb.
+- I currently work as a Senior Manager in the Global Biometrics and Data Sciences, Oncology group at Bristol Myers Squibb.
 - I completed my PhD in Statistics from the Department of Statistics at the University of Florida.
 - My Ph.D. thesis advisor was Dr. Kshitij Khare, and my co-advisor was Dr. Rohit Patra.
 - Skilled in R, Rcpp, RcppArmadillo, Stan, SQL, LaTex, Microsoft Office Suite.
